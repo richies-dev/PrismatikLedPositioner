@@ -1,4 +1,4 @@
-# PrismaticLedPositioner
+# PrismatikLedPositioner
 Positions the LEDs in the INI file used by prismatic.
 
 ##
