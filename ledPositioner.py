@@ -255,9 +255,6 @@ for x in range(lightsL):
 for x in range(lightsB):
     counter = counter + 1
     
-    if counter >= 188:
-        print("")
-
     frameWidth = (screenW - bottomP.start - bottomP.end)
     
     width = round((frameWidth / lightsB)) if grabberWidth == 0 else grabberWidth
